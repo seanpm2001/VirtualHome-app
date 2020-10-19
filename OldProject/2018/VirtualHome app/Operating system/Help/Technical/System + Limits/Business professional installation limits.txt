@@ -1,0 +1,52 @@
+_____________
+business professional installation
+
+memory
+
+96 GB RAM
+32736 GB (32 TB) Disk space
+recommended:
+150 GB RAM
+64 bit
+65572 GB (64 TB) Disk space
+Max:
+131444 GB (128 TB) Disk space
+64 bit
+256 GB RAM
+
+video
+
+Quality: 256x144 to 7680x4320 (8k)
+3D video capable
+360 video capable
+Duration:
+
+.Mov files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Avi files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Wmv files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds

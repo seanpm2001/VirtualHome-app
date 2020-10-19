@@ -1,0 +1,155 @@
+Virtualhome OS system requirements
+
+minimal installation
+requires:
+1 GB RAM
+32 bit
+16 GB Disk space
+recommended:
+2 GB RAM
+32 bit
+40 GB Disk space
+max: 
+6 GB RAM
+64 bit
+120 GB Disk space
+
+basic installation
+requires:
+3 GB RAM
+64 bit
+64 GB Disk space
+recommended:
+5 GB RAM
+64 bit
+88 GB Disk space
+max:
+12 GB RAM
+64 bit
+250 GB Disk space
+
+home basic installation
+requires:
+4 GB RAM
+64 bit
+120 GB Disk space
+recommended:
+8 GB RAM
+64 bit
+200 GB Disk space
+max:
+24 GB RAM
+64 bit
+500 GB Disk space
+
+home premium installation
+requires:
+8 GB RAM
+64 bit
+250 GB Disk space
+recommended: 
+16 GB RAM
+64 bit
+512 GB Disk space
+max:
+48 GB RAM
+64 bit
+1024 GB (1 TB) disk space
+
+home professional installation
+requires:
+16 GB RAM
+64 bit
+512 GB Disk space
+recommended:
+22 GB RAM
+64 bit
+800 GB Disk space
+max:
+64 GB RAM
+64 bit
+2028 GB (2 TB) disk space
+
+home ultimate installation
+requires: 
+32 GB RAM
+64 bit
+1024 GB (1 TB) Disk space
+recommended:
+48 GB RAM
+64 bit
+2028 GB (2 TB) Disk space
+max:
+100 GB RAM
+64 bit
+4092 GB (4 TB) disk space
+
+business installation
+requires: 
+40 GB RAM
+64 bit
+4092 GB (4 TB) Disk space
+recommended:
+64 GB RAM
+64 bit
+6140 GB (6 TB) Disk space
+max: 
+150 GB RAM
+64 bit
+12380 GB (12 TB) disk space
+
+business basic installation
+requires:
+50 GB RAM
+64 bit
+8184 GB (8 TB) Disk space
+recommended:
+120 GB RAM
+64 bit
+16368 GB (16 TB) Disk space
+max:
+180 GB RAM
+64 bit
+32736 GB (32 TB) Disk space
+
+business premium installation
+requires:
+64 GB RAM
+16368 GB (16 TB) Disk space
+recommended:
+128 GB RAM
+64 bit
+32736 GB (32 TB) Disk space
+max:
+200 GB RAM
+64 bit
+65572 GB (64 TB) disk space
+
+
+business professional installation
+requires:
+96 GB RAM
+32736 GB (32 TB) Disk space
+recommended:
+150 GB RAM
+64 bit
+65572 GB (64 TB) Disk space
+Max:
+131444 GB (128 TB) Disk space
+64 bit
+256 GB RAM
+
+business ultimate installation
+requires:
+128 GB RAM
+64 bit
+65572 GB (64 TB) Disk space
+recommended:
+256 GB RAM
+131444 GB (128 TB) Disk space
+max:
+1024 GB (1 TB) RAM
+64 bit
+262888 GB (256 TB) Disk space
+
+64 bit

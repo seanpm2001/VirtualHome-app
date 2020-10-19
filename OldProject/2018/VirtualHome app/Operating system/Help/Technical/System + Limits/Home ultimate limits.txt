@@ -1,0 +1,51 @@
+________________________
+home ultimate installation
+
+memory
+
+32 GB RAM
+64 bit
+1024 GB (1 TB) Disk space
+recommended:
+48 GB RAM
+64 bit
+2028 GB (2 TB) Disk space
+max:
+100 GB RAM
+64 bit
+4092 GB (4 TB) disk space
+
+video
+
+Quality: 256x144 to 2560x1440
+Duration:
+
+.Mov files
+24 fps
+50:00:00:00 seconds
+30 fps
+48:04:50:20 seconds
+48 fps
+32:07:40:30 seconds
+60 fps
+24:06:28:15 seconds
+
+.Avi files
+24 fps
+01:20:05:00 seconds
+30 fps
+00:80:20:35 seconds
+48 fps
+00:60:06:00 seconds
+60 fps
+00:48:04:20 seconds
+
+.Wmv files
+24 fps
+30:00:00:00 seconds
+30 fps
+28:96:00:00 seconds
+48 fps
+25:84:57:20 seconds
+60 fps
+20:75:48:30 seconds

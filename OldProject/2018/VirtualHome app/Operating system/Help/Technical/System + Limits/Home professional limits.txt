@@ -1,0 +1,51 @@
+________________________
+home professional installation
+
+memory
+
+16 GB RAM
+64 bit
+512 GB Disk space
+recommended:
+22 GB RAM
+64 bit
+800 GB Disk space
+max:
+64 GB RAM
+64 bit
+2028 GB (2 TB) disk space
+
+video
+
+Quality: 256x144 to 2560x1440
+Duration:
+
+.Mov files
+24 fps
+00:10:00:00 seconds
+30 fps
+00:08:55:20 seconds
+48 fps
+00:07:40:30 seconds
+60 fps
+00:06:28:15 seconds
+
+.Avi files
+24 fps
+00:80:05:00 seconds
+30 fps
+00:55:20:35 seconds
+48 fps
+00:40:06:00 seconds
+60 fps
+00:30:04:20 seconds
+
+.Wmv files
+24 fps
+25:00:00:00 seconds
+30 fps
+15:96:00:00 seconds
+48 fps
+10:84:57:20 seconds
+60 fps
+08:75:48:30 seconds

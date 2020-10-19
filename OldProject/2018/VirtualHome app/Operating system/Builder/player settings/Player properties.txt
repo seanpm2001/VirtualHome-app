@@ -1,0 +1,9 @@
+Player properties
+
+Fall Damage (Y/N)
+Gender <Insert gender here>
+Age (0-1000)
+Height: (0.01in-8000ft)
+Radius (0.01-2000ft)
+Health: (1.00-1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000.00)
+

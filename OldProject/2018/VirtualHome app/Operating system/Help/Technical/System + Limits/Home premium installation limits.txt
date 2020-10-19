@@ -1,0 +1,51 @@
+_________________________
+home premium installation
+
+memory 
+
+8 GB RAM
+64 bit
+250 GB Disk space
+recommended: 
+16 GB RAM
+64 bit
+512 GB Disk space
+max:
+48 GB RAM
+64 bit
+1024 GB (1 TB) disk space
+
+video
+
+Quality: 256x144 to 1920x1080
+Duration:
+
+.Mov files
+24 fps
+00:03:00:00 seconds
+30 fps
+00:02:55:20 seconds
+48 fps
+00:01:40:30 seconds
+60 fps
+00:01:28:15 seconds
+
+.Avi files
+24 fps
+00:42:05:00 seconds
+30 fps
+00:36:20:35 seconds
+48 fps
+00:28:06:00 seconds
+60 fps
+00:20:04:20 seconds
+
+.Wmv files
+24 fps
+10:00:00:00 seconds
+30 fps
+08:96:00:00 seconds
+48 fps
+07:84:57:20 seconds
+60 fps
+06:75:48:30 seconds

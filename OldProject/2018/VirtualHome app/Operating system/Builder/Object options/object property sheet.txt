@@ -1,0 +1,116 @@
+Object Properties sheet
+Resolution
+(144p) (240p) (288p) (360p) (480p) (720p) (1080p) (1440p) (2160p) (4320p)
+Animated
+(Y/N)
+Movable
+(Y/N)
+Weight:
+(1.00-1,000,000,000,000.000 LB)
+Plays sound
+(Y/N)
+Sounds played:<Insert file here>
+(random) (A-Z) (Z-A) (Long to short) (Short to long) (Big to small) (Small to big)
+Perimeter
+X: Y: Z:
+Angles:
+(1-25,000)
+Health:
+(1-1,000,000,000,000,000/INFINITE)
+File type:
+(.obj) (.3ds) (.stl) (.fbx) (.dae) (.stp) (.igs) (.wrl) (.ply) (.prt)
+Framerate
+(1-120)
+Color mode:
+(monochrome) (16 color) (256 color) (24 bit) (32 bit) (64 bit)
+Dangerous:
+(Y/N)
+(Damage per second:)
+(Damage per millisecond:)
+(Damage per minute:)
+(Damage per hour:)
+Damage Radius)
+(0-10000p)
+Special boosts)
+(Y/N)
+(Bounce) (Swim) (Float) (Wind) (Fire) (Ice) (Freeze) (Explode) (Teleport) (Shoot) (Sink) (Tornado) (Stab)
+bounce
+(0.01-1000.00)
+Sound (Y/N)
+Sound <Insert file here)
+swim
+(0.01-500.00)
+Sound (Y/N)
+Sound <Insert file here)
+wind
+Sound (Y/N)
+Sound <Insert file here)
+Wind Duration (Y/N)
+Duration: (0.01-INFINITY minutes)
+Wind Strength (Y/N)
+Strength: (0.01-INFINITY)
+Wind Speed (Y/N)
+Speed: (0.01 MPH - 1000.00 MPH)
+Fire
+Sound (Y/N)
+Sound <Insert file here)
+burn (Y/N)
+Burn duration: (0.01-5 Minutes)
+Fire speed (Y/N)
+Speed: (0.01-50 MPH)
+Fire duration (Y/N)
+Duration: (0.01-INFINITY)
+Ice
+Sound (Y/N)
+Sound <Insert file here)
+Freeze duration (Y/N)
+freeze duration (0.01-INFINITY)
+Freeze (Y/N)
+Freeze Damage (Y/N)
+Freeze Damage: (0.01-10000.00 per millisecond)
+Freeze Slowdown speed (Y/N)
+Freeze Speed Fatigue (0.01%-500%)
+Explode
+Sound (Y/N)
+Sound <Insert file here)
+Explosion (Y/N)
+Damage (Y/N)
+Damage: (0.01-500000.00)
+Radius (Y/N)
+Explosion Radius (1p-1,000,000,000p)
+Building damage (Y/N)
+Player damage (Y/N)
+Teleport
+Sound (Y/N)
+Sound <Insert file here)
+Teleport Player (Y/N)
+Teleport Object (Y/N)
+Teleport type: (Link) (Room) (Structure)
+shoot 
+shot (Y/N)
+Sound (Y/N)
+Sound <Insert file here)
+Bullets per second (1-5000)
+Player damage (Y/N)
+Building damage (Y/N)
+Damage (1-1,000,000)
+Sink
+Sound (Y/N)
+Sound <Insert file here)
+sink speed (Y/N)
+Sink speed (0.01-1000 MPH)
+Tornado
+Sound (Y/N)
+Sound <Insert file here)
+Launch (Y/N)
+Launch distance (1p-1,000,000,000p)
+Launch location <Insert link here> OR X: Y: Z:
+Player damage (Y/N)
+Building damage (Y/N)
+Stab
+Sound (Y/N)
+Sound <Insert file here)
+Player damage (Y/N)
+Building damage (Y/N)
+player damage per second (1-10000)
+Stab count (1-INFINITY)

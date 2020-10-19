@@ -1,0 +1,8 @@
+About VirtualHome OS 1.00 64 bit
+
+Description: Virtualize your property! Want to give a house tour WITHOUT leaving your house? You now can! With virtualhome.
+Emulate your house/business structure, and share it over the server console. You can then let people from all around the world
+come to your house virtually! You can also record their activities, and upload them.
+This program can be ran on a virtual machine, however, one system covers only 1 room. You can use multiple devices to simulate your entire property
+
+

@@ -1,0 +1,49 @@
+______________________________________________________
+Basic installation
+
+3 GB RAM
+64 bit
+64 GB Disk space
+recommended:
+5 GB RAM
+64 bit
+88 GB Disk space
+max:
+12 GB RAM
+64 bit
+250 GB Disk space
+
+Video 
+
+Quality: 256x144 to 1280x720
+Duration:
+
+.Mov files
+24 fps
+00:001:00:00 seconds
+30 fps
+00:00:55:20 seconds
+48 fps
+00:00:40:30 seconds
+60 fps
+00:00:28:15 seconds
+
+.Avi files
+24 fps
+00:12:05:00 seconds
+30 fps
+00:10:20:35 seconds
+48 fps
+00:08:06:00 seconds
+60 fps
+00:06:04:20 seconds
+
+.Wmv files
+24 fps
+01:00:00:00 seconds
+30 fps
+00:96:00:00 seconds
+48 fps
+00:84:57:20 seconds
+60 fps
+00:75:48:30 seconds

@@ -1,0 +1,575 @@
+Limitations of all editions
+
+
+____________________________
+Minimal installation
+
+Memory
+
+1 GB RAM
+32 bit
+16 GB Disk space
+recommended:
+2 GB RAM
+32 bit
+40 GB Disk space
+max: 
+6 GB RAM
+64 bit
+120 GB Disk space
+
+Video 
+
+Quality: 256x144 to 600x480
+Duration:
+
+.Mov files
+24 fps
+00:00:01:00 seconds
+30 fps
+00:00:00:56 seconds
+48 fps
+00:00:00:30 seconds
+60 fps
+00:00:00:15 seconds
+
+.Avi files
+24 fps
+00:00:10:00 seconds
+30 fps
+00:00:09:20 seconds
+48 fps
+00:00:07:00 seconds
+60 fps
+00:00:05:20 seconds
+
+.Wmv files
+24 fps
+00:01:20:00 seconds
+30 fps
+00:01:00:00 seconds
+48 fps
+00:00:57:20 seconds
+60 fps
+00:00:48:30 seconds
+
+______________________________________________________
+Basic installation
+
+3 GB RAM
+64 bit
+64 GB Disk space
+recommended:
+5 GB RAM
+64 bit
+88 GB Disk space
+max:
+12 GB RAM
+64 bit
+250 GB Disk space
+
+Video 
+
+Quality: 256x144 to 1280x720
+Duration:
+
+.Mov files
+24 fps
+00:001:00:00 seconds
+30 fps
+00:00:55:20 seconds
+48 fps
+00:00:40:30 seconds
+60 fps
+00:00:28:15 seconds
+
+.Avi files
+24 fps
+00:12:05:00 seconds
+30 fps
+00:10:20:35 seconds
+48 fps
+00:08:06:00 seconds
+60 fps
+00:06:04:20 seconds
+
+.Wmv files
+24 fps
+01:00:00:00 seconds
+30 fps
+00:96:00:00 seconds
+48 fps
+00:84:57:20 seconds
+60 fps
+00:75:48:30 seconds
+
+__________________________
+home basic installation
+
+memory
+
+4 GB RAM
+64 bit
+120 GB Disk space
+recommended:
+8 GB RAM
+64 bit
+200 GB Disk space
+max:
+24 GB RAM
+64 bit
+500 GB Disk space
+
+video
+
+Quality: 256x144 to 1280x720
+Duration:
+
+.Mov files
+24 fps
+00:03:00:00 seconds
+30 fps
+00:02:55:20 seconds
+48 fps
+00:01:40:30 seconds
+60 fps
+00:01:28:15 seconds
+
+.Avi files
+24 fps
+00:42:05:00 seconds
+30 fps
+00:36:20:35 seconds
+48 fps
+00:28:06:00 seconds
+60 fps
+00:20:04:20 seconds
+
+.Wmv files
+24 fps
+10:00:00:00 seconds
+30 fps
+08:96:00:00 seconds
+48 fps
+07:84:57:20 seconds
+60 fps
+06:75:48:30 seconds
+
+_________________________
+home premium installation
+
+memory 
+
+8 GB RAM
+64 bit
+250 GB Disk space
+recommended: 
+16 GB RAM
+64 bit
+512 GB Disk space
+max:
+48 GB RAM
+64 bit
+1024 GB (1 TB) disk space
+
+video
+
+Quality: 256x144 to 1920x1080
+Duration:
+
+.Mov files
+24 fps
+00:03:00:00 seconds
+30 fps
+00:02:55:20 seconds
+48 fps
+00:01:40:30 seconds
+60 fps
+00:01:28:15 seconds
+
+.Avi files
+24 fps
+00:42:05:00 seconds
+30 fps
+00:36:20:35 seconds
+48 fps
+00:28:06:00 seconds
+60 fps
+00:20:04:20 seconds
+
+.Wmv files
+24 fps
+10:00:00:00 seconds
+30 fps
+08:96:00:00 seconds
+48 fps
+07:84:57:20 seconds
+60 fps
+06:75:48:30 seconds
+
+________________________
+home professional installation
+
+memory
+
+16 GB RAM
+64 bit
+512 GB Disk space
+recommended:
+22 GB RAM
+64 bit
+800 GB Disk space
+max:
+64 GB RAM
+64 bit
+2028 GB (2 TB) disk space
+
+video
+
+Quality: 256x144 to 2560x1440
+Duration:
+
+.Mov files
+24 fps
+00:10:00:00 seconds
+30 fps
+00:08:55:20 seconds
+48 fps
+00:07:40:30 seconds
+60 fps
+00:06:28:15 seconds
+
+.Avi files
+24 fps
+00:80:05:00 seconds
+30 fps
+00:55:20:35 seconds
+48 fps
+00:40:06:00 seconds
+60 fps
+00:30:04:20 seconds
+
+.Wmv files
+24 fps
+25:00:00:00 seconds
+30 fps
+15:96:00:00 seconds
+48 fps
+10:84:57:20 seconds
+60 fps
+08:75:48:30 seconds
+
+________________________
+home ultimate installation
+
+memory
+
+32 GB RAM
+64 bit
+1024 GB (1 TB) Disk space
+recommended:
+48 GB RAM
+64 bit
+2028 GB (2 TB) Disk space
+max:
+100 GB RAM
+64 bit
+4092 GB (4 TB) disk space
+
+video
+
+Quality: 256x144 to 2560x1440
+Duration:
+
+.Mov files
+24 fps
+50:00:00:00 seconds
+30 fps
+48:04:50:20 seconds
+48 fps
+32:07:40:30 seconds
+60 fps
+24:06:28:15 seconds
+
+.Avi files
+24 fps
+01:20:05:00 seconds
+30 fps
+00:80:20:35 seconds
+48 fps
+00:60:06:00 seconds
+60 fps
+00:48:04:20 seconds
+
+.Wmv files
+24 fps
+30:00:00:00 seconds
+30 fps
+28:96:00:00 seconds
+48 fps
+25:84:57:20 seconds
+60 fps
+20:75:48:30 seconds
+
+________________
+business installation
+
+memory
+
+40 GB RAM
+64 bit
+4092 GB (4 TB) Disk space
+recommended:
+64 GB RAM
+64 bit
+6140 GB (6 TB) Disk space
+max: 
+150 GB RAM
+64 bit
+12380 GB (12 TB) disk space
+
+video
+
+Quality: 256x144 to 2560x1440
+Duration:
+
+.Mov files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Avi files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Wmv files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+_________
+business basic installation
+
+memory
+
+50 GB RAM
+64 bit
+8184 GB (8 TB) Disk space
+recommended:
+120 GB RAM
+64 bit
+16368 GB (16 TB) Disk space
+max:
+180 GB RAM
+64 bit
+32736 GB (32 TB) Disk space
+
+video
+
+Quality: 256x144 to 3840x2160
+Duration:
+
+.Mov files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Avi files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Wmv files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+______________
+business premium installation
+
+64 GB RAM
+16368 GB (16 TB) Disk space
+recommended:
+128 GB RAM
+64 bit
+32736 GB (32 TB) Disk space
+max:
+200 GB RAM
+64 bit
+65572 GB (64 TB) disk space
+
+video
+
+Quality: 256x144 to 7680x4320 (8k)
+Duration:
+
+.Mov files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Avi files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Wmv files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+_____________
+business professional installation
+
+memory
+
+96 GB RAM
+32736 GB (32 TB) Disk space
+recommended:
+150 GB RAM
+64 bit
+65572 GB (64 TB) Disk space
+Max:
+131444 GB (128 TB) Disk space
+64 bit
+256 GB RAM
+
+video
+
+Quality: 256x144 to 7680x4320 (8k)
+3D video capable
+360 video capable
+Duration:
+
+.Mov files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Avi files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Wmv files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+_________________
+business ultimate installation
+
+memory
+
+128 GB RAM
+64 bit
+65572 GB (64 TB) Disk space
+recommended:
+256 GB RAM
+131444 GB (128 TB) Disk space
+max:
+1024 GB (1 TB) RAM
+64 bit
+262888 GB (256 TB) Disk space
+
+video
+
+Quality: 256x144 to 7680x4320 (8k)
+3D video capable
+VR capable
+Time lapse capable
+Slow motion capable
+Night mode capable
+360 video capable
+Duration:
+
+.Mov files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Avi files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Wmv files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds

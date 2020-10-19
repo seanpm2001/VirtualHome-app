@@ -1,0 +1,51 @@
+________________
+business installation
+
+memory
+
+40 GB RAM
+64 bit
+4092 GB (4 TB) Disk space
+recommended:
+64 GB RAM
+64 bit
+6140 GB (6 TB) Disk space
+max: 
+150 GB RAM
+64 bit
+12380 GB (12 TB) disk space
+
+video
+
+Quality: 256x144 to 2560x1440
+Duration:
+
+.Mov files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Avi files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
+
+.Wmv files
+24 fps
+50:00:00:00 seconds
+30 fps
+50:00:00:00 seconds
+48 fps
+50:00:00:00 seconds
+60 fps
+50:00:00:00 seconds
